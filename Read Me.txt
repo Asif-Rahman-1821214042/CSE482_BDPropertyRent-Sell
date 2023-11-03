@@ -1,0 +1,18 @@
+First, install XAMPP; after that, go to the database by clicking the mysqli control panel's mysql->Admin button and create a database named “bp”. After that, click that “bp” database, go to import, and upload the “bp.sql” database file. Then create a new folder and name it cse482 in this path: C:\xampp\htdoc. After all of these, just copy all the project files to that cse482 folder. Finally, go to the browser, type "localhost/cse482/” and your web browser is ready to use.
+
+Some authentication for different users:
+1.Buyer Account:
+• Email: s@gmail.com
+• Password: mbappe
+
+2.Seller Account:
+• Email: amzad@gmail.com
+• Password: 365365
+
+3.Admin Account:
+• Email: ad1@gmail.com
+• Password: admin123
+
+
+
+Hosted Link: https://bproperty17.000webhostapp.com/
