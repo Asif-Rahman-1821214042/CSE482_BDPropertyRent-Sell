@@ -30,8 +30,8 @@
 
 		// set API Key
 		$stripe = array(
-		"SecretKey"=>"sk_test_51NxCXUFGNkysYLrU75Um1JQaklJzThVT9PMIleedKVtG3ZnJ2ypwTAkOZDykvrHvD8lwmdZm6Fpw4RNCm7lQUkJS002Eq8c3j5",
-		"PublishableKey"=>"pk_test_51NxCXUFGNkysYLrU7VkflRQY8bboi1s0m7qIJ9DtEIzWDJNnB2SSozpQTbD2B2XLUn8lKcatbe9FAw50WClXp36800TXEUn4ia"
+		"SecretKey"=>"#Stripe Secret Key#",
+		"PublishableKey"=>"#Stripe Payment API#"
 		);
 
 		// Set your secret key: remember to change this to your live secret key in production

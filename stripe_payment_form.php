@@ -117,7 +117,7 @@ $_SESSION["cat_amount"]=$query['c_price'];
 
  <script>
         // Set your publishable key
-        Stripe.setPublishableKey('pk_test_51NxCXUFGNkysYLrU7VkflRQY8bboi1s0m7qIJ9DtEIzWDJNnB2SSozpQTbD2B2XLUn8lKcatbe9FAw50WClXp36800TXEUn4ia');
+        Stripe.setPublishableKey('#Stripe Paymen API#');
 
         // Callback to handle the response from stripe
         function stripeResponseHandler(status, response) {
